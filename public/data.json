@@ -1,0 +1,56 @@
+[
+      {
+        "id": "1",
+        "name": "SUPER SAVER 1",
+        "price": "TK.5,000/=",
+        "duration": "4 Hours",
+        "edit": "80 copies",
+        "deliver":"All soft copy of photos will be delivered in Pen drive.",
+        "img":""
+      },
+      {
+        "id": "2",
+        "name": "SUPER SAVER 2",
+        "price": "TK.6,500/=",
+        "duration": "4 Hours",
+        "edit": "100 copies",
+        "deliver":"All soft copy of photos will be delivered in Pen drive.",
+        "img":""
+      },
+      {
+        "id": "3",
+        "name": "SUPER SAVER 3",
+        "price": "TK.7,000/=",
+        "duration": "5 Hours",
+        "edit": "120 copies",
+        "deliver":"All soft copy of photos will be delivered in Pen drive.",
+        "img":""
+      },
+      {
+        "id": "4",
+        "name": "SUPER SAVER 4",
+        "price": "TK.8,000/=",
+        "duration": "5 Hours",
+        "edit": "150 copies",
+        "deliver":"All soft copy of photos will be delivered in Pen drive.",
+        "img":""
+      },
+      {
+        "id": "5",
+        "name": "SUPER SAVER 5",
+        "price": "TK.9,500/=",
+        "duration": "6 Hours",
+        "edit": "180 copies",
+        "deliver":"All soft copy of photos will be delivered in Pen drive.",
+        "img":""
+      },
+      {
+        "id": "6",
+        "name": "SUPER SAVER 6",
+        "price": "TK.10,500/=",
+        "duration": "6 Hours",
+        "edit": "200 copies",
+        "deliver":"All soft copy of photos will be delivered in Pen drive.",
+        "img":""
+      }
+    ]
