@@ -3,3 +3,11 @@
    color:crimson;
    margin-right: 5px;
 }
+.reviews-img img{
+    width: 100%;
+    height: 300px;
+ }
+ .reviews-img{
+     margin: 20px;
+     margin-top: 50px;
+ }

@@ -2,6 +2,7 @@
       {
         "id": "1",
         "name": "PACKAGE 1",
+        "revname": "Jack Thomas",
         "price": "TK.5,000/=",
         "duration": "4 Hours",
         "edit": "80 copies",
@@ -10,11 +11,13 @@
         "photo": "100(All post processed & Edited",
         "deliver":"All soft copy of photos will be delivered in Pen drive.",
         "description":"Package can be customized according to the requirements of the client.",
-        "img":""
+        "review":"I just got married on 3/26/22 & booked my wedding photographer with Luxury Photographer. I had an amazing experience! Their prices were far better than most photographers I had seen online; you get to choose from a pool of photographers which is an added bonus; my package included a 2nd photographer which was nice as well.",
+        "img":"https://www.dipakstudios.com/gallery/14594121173.jpeg"
       },
       {
         "id": "2",
         "name": "PACKAGE 2",
+        "revname": "Sarah H.",
         "price": "TK.6,500/=",
         "duration": "4 Hours",
         "edit": "100 copies",
@@ -23,11 +26,13 @@
         "photo": "100(All post processed & Edited",
         "deliver":"All soft copy of photos will be delivered in Pen drive.",
         "description":"Package can be customized according to the requirements of the client.",
-        "img":""
+        "review":"Best decision to choose Luxury Photographers. I picked my own photographer and Ina was absolutely amazing. The website is easy to use, affordable, offered a discount and you can even make payments. I got 1500 amazing photos, a ton of video and the best experience.",
+        "img":"https://image.wedmegood.com/resized/450X/uploads/project/3391/1502861476__01C2036.jpg"
       },
       {
         "id": "3",
         "name": "PACKAGE 3",
+        "revname": "Charlie",
         "price": "TK.7,000/=",
         "duration": "5 Hours",
         "extra": "1500 BDT / Hour",
@@ -36,11 +41,13 @@
         "photo": "100(All post processed & Edited",
         "deliver":"All soft copy of photos will be delivered in Pen drive.",
         "description":"Package can be customized according to the requirements of the client.",
-        "img":""
+        "review":"Amazing ! Shantel my photographer and Johnathan my videographer were amazing and captured every beautiful moment ! Shantel made sure to get every shot with anybody I wanted to have a photo with. She didn’t mind take any photo I wanted the entire night. Lol I love pictures.",
+        "img":"https://cdn0.weddingwire.in/article/5894/3_2/1280/jpg/84985-couple-portrait-ideas-for-your-wedding-house-on-the-clouds.webp"
       },
       {
         "id": "4",
         "name": "PACKAGE 4",
+        "revname": "Tamara Q.",
         "price": "TK.8,000/=",
         "duration": "5 Hours",
         "extra": "1500 BDT / Hour",
@@ -49,11 +56,13 @@
         "photo": "100(All post processed & Edited",
         "deliver":"All soft copy of photos will be delivered in Pen drive.",
         "description":"Package can be customized according to the requirements of the client.",
-        "img":""
+        "review":"My husband and I were married on 2/22/2022! Carletta and Terry were absolutely amazing! From the initial phone conversation with Carletta through the end of our day. Carletta was professional, fun, took our wedding theme and made sure it came through in everything the shot.",
+        "img":"https://image.wedmegood.com/resized/450X/uploads/project/34457/1531592920_4A5A9431.JPG"
       },
       {
         "id": "5",
         "name": "PACKAGE 5",
+        "revname": "Alyssa D.",
         "price": "TK.9,500/=",
         "duration": "6 Hours",
         "edit": "150 copies",
@@ -62,11 +71,13 @@
         "photo": "100(All post processed & Edited",
         "deliver":"All soft copy of photos will be delivered in Pen drive.",
         "description":"Package can be customized according to the requirements of the client.",
-        "img":""
+        "review":"Excellent experience! Photographer was in constant communication with us and met our expectation. Quick turn around on photos. Event was on 2/19 and we already received our photos. Great shots! Would highly recommend Luxury Photographers as vendor of choice!",
+        "img":"https://cdn0.weddingwire.in/article/3543/3_2/960/jpg/43453-new-generation-wedding-video-gautam-khullar-photography-lead.jpeg"
       },
       {
         "id": "6",
         "name": "PACKAGE 6",
+        "revname": "Lisa Gomz",
         "price": "TK.10,500/=",
         "duration": "6 Hours",
         "edit": "160 copies",
@@ -75,11 +86,13 @@
         "photo": "100(All post processed & Edited",
         "deliver":"All soft copy of photos will be delivered in Pen drive.",
         "description":"Package can be customized according to the requirements of the client.",
-        "img":""
+        "review":"I highly recommend! I had Willie F and Clyde. They were actually my back up photographers since my original ones could not work anymore on the wedding day. Classic Photographers worked on this issue immediately and found these 2 amazing Photographers in less than 24 hours.",
+        "img":"https://i.pinimg.com/originals/1f/53/fc/1f53fc98fb7ce85c1af97ae181f5eade.jpg"
       },
       {
         "id": "7",
         "name": "PACKAGE 7",
+        "revname": "Kazia Noor",
         "price": "TK.11,000/=",
         "duration": "6 Hours",
         "edit": "170 copies",
@@ -88,11 +101,13 @@
         "photo": "100(All post processed & Edited",
         "deliver":"All soft copy of photos will be delivered in Pen drive.",
         "description":"Package can be customized according to the requirements of the client.",
-        "img":""
+        "review":"Our photos looked beautiful and were ready on time! Would definitely recommend!. Extremely professional and great at giving directions. Photos turned out perfect!",
+        "img":"https://i.pinimg.com/736x/ec/47/69/ec4769ff925af17d5956e5cdc0c6ba34.jpg"
       },
       {
         "id": "8",
         "name": "PACKAGE 8",
+        "revname": "Devit M.",
         "price": "TK.11,500/=",
         "duration": "6 Hours",
         "edit": "180 copies",
@@ -101,11 +116,13 @@
         "photo": "100(All post processed & Edited",
         "deliver":"All soft copy of photos will be delivered in Pen drive.",
         "description":"Package can be customized according to the requirements of the client.",
-        "img":""
+        "review":"I had a great experience with Luxury Photographers! They provided our DJ, Photographer & Videographer. Kezong G. capture so amazing shots! I didn't need everything that came with the wedding package & they were very flexible and came up with a great package for only what I needed.",
+        "img":"https://i.pinimg.com/originals/bd/78/70/bd787019f3f272c8349d7156075c92d9.png"
       },
       {
         "id": "9",
         "name": "PACKAGE 9",
+        "revname": "Oscar Theos",
         "price": "TK.12,500/=",
         "duration": "6 Hours",
         "edit": "190 copies",
@@ -114,6 +131,7 @@
         "photo": "100(All post processed & Edited",
         "deliver":"All soft copy of photos will be delivered in Pen drive.",
         "description":"Package can be customized according to the requirements of the client.",
-        "img":""
+        "review":"I had a fantastic experience with Luxury Photographers. The 2 photographers Willie and Clyde were professional, personable, prompt and my guests kept commenting how great they were when asked to take pictures. ",
+        "img":"https://image.shutterstock.com/image-photo/absolutely-stunning-young-wedding-couple-600w-1928938550.jpg"
       }
     ]

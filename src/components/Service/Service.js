@@ -5,7 +5,7 @@ const Service = (props) => {
   return (
     <div className="service">
       <img className="w-100" src={img} alt="" />
-      <h2>{name}</h2>
+      <h2 style={{"margin-top":"10px"}}>{name}</h2>
       <p>Price: {price}</p>
       <hr />
       <p>Place: {place}</p>

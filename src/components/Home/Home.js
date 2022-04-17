@@ -13,7 +13,7 @@ const Home = () => {
         <>
             <Banner></Banner>
             <div className='container'>
-            <h2 className='text-primary text-center mt-4 mb-4'> Our Packages</h2>
+            <h2 className='text-primary text-center mt-5 mb-4'> Our Packages</h2>
             <div className='services-container'>
                   {
                       services.slice(0,3).map(service => <Service
@@ -26,6 +26,9 @@ const Home = () => {
                 <Link to="/services">See more packages</Link>
                 <FontAwesomeIcon icon={faArrowRight} />
             </div>
+            </div>
+            <div className='reviews-img'>
+               <img src="https://www.globitalsingapore.com/wp-content/uploads/2021/07/df453we.png" alt="" />
             </div>
             <Reviews></Reviews>
         </>
