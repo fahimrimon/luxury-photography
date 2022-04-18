@@ -28,9 +28,6 @@ const Home = () => {
                 <FontAwesomeIcon icon={faArrowRight} />
             </div>
             </div>
-            <div className='reviews-img'>
-               <img src="https://www.globitalsingapore.com/wp-content/uploads/2021/07/df453we.png" alt="" />
-            </div>
             <Reviews></Reviews>
             <Footer></Footer>
         </>

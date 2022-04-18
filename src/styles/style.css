@@ -100,3 +100,8 @@
     margin-top: 50px;
     margin-bottom: 100px;
 }
+.notfound-img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

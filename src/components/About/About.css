@@ -1,0 +1,23 @@
+.about-us{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    background-color: black;
+    height: 100vh;
+}
+.about-us img{
+    height: 400px;
+    width: 300px;
+    margin-left: 60px;
+    margin-top: 60px;
+    border: none;
+    border-radius: 10px;
+}
+.about-text{
+    margin-left: 10px;
+    margin-top: 60px;
+    color: white;
+
+}
+.about-text span{
+    color: red;
+}

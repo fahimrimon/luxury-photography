@@ -21,7 +21,7 @@ const SignUp = () => {
         useCreateUserWithEmailAndPassword(auth, { sendEmailVerification: true });
         const [signInWithGoogle, googleUser, loading2, googleError] = useSignInWithGoogle(auth);
 
-    const handleEmailChange = (e) => {
+    const handleEmailOnChange = (e) => {
         const emailRegex = /\S+@\S+\.\S+/;
         const validEmail = emailRegex.test(e.target.value);
 
@@ -32,10 +32,10 @@ const SignUp = () => {
             setErrors({ ...errors, email: "Invalid email" });
             setUserInfo({ ...userInfo, email: "" });
         }
-
-        // setEmail(e.target.value);
     };
-    const handlePasswordChange = (e) => {
+
+    
+    const handlePasswordOnChange = (e) => {
         const passwordRegex = /.{6,}/;
         const validPassword = passwordRegex.test(e.target.value);
 
@@ -78,10 +78,10 @@ const SignUp = () => {
         <div className="login-container">
             <div className="login-title">Sign up</div>
             <form className="login-form" onSubmit={handleLogin}>
-                <input type="text" placeholder=" Enter your Email" onChange={handleEmailChange} />
+                <input type="text" placeholder=" Enter your Email" onChange={handleEmailOnChange} />
                 {errors?.email && <p className="error-message">{errors.email}</p>}
                 <div className="relative">
-                    <input type="password" placeholder="Your password" onChange={handlePasswordChange} />
+                    <input type="password" placeholder="Your password" onChange={handlePasswordOnChange} />
                     {errors?.password && <p className="error-message">{errors.password}</p>}
                 </div>
                 <input

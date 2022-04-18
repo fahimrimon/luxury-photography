@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { useSignInWithEmailAndPassword, useSignInWithGoogle } from "react-firebase-hooks/auth";
+import {useSignInWithEmailAndPassword, useSignInWithGoogle } from "react-firebase-hooks/auth";
 import { Link, useLocation, useNavigate } from "react-router-dom";
 import "../../../src/styles/style.css";
 import { auth } from "../../firebase.init";
@@ -17,7 +17,7 @@ const Login = () => {
     
         const [signInWithEmail, user, loading, hookError] = useSignInWithEmailAndPassword(auth);
         const [signInWithGoogle, googleUser, loading2, googleError] = useSignInWithGoogle(auth);
-        
+     
         const handleEmailOnChange = (e) => {
             const emailRegex = /\S+@\S+\.\S+/;
             const validEmail = emailRegex.test(e.target.value);
