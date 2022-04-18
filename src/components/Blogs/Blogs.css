@@ -1,0 +1,9 @@
+.ans-1{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 10px;
+}
+.ques{
+   border: 1px solid green;
+   padding: 7px;
+}

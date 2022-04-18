@@ -64,7 +64,6 @@ const Login = () => {
                    navigate(from);
                }
            }, [user]);
-    
 
   return (
     <div className="login-container">
