@@ -1,14 +1,13 @@
-# Star Shop
+# Luxury Photography
 
 ### Live site link
 
-[Live Website here](https://cute-praline-87c8d6.netlify.app/).
+[Live Website here](photography-212d6.web.app).
 
 ## This project Info
 
 - develop with react js
-- This shop is design for selling monitor
-- Custom hooks used here which name is useReviews
+- Create a photography website
+- Custom hooks used here which name is useServices
 - Used FontAwesome in this project
 - Finally complete my project
-
