@@ -7,7 +7,7 @@ const Reviews = () => {
     const [services, setServices] = useServices();
     return (
         <div className='container'>
-            <div className='reviews-item'>
+            <div className='reviews-item' id='reviews'>
                 {
                     services.map(review => <Review
                     key={review.id}

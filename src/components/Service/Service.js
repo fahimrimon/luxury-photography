@@ -1,7 +1,13 @@
 import React from "react";
+import { useNavigate } from "react-router-dom";
 import "./Service.css";
 const Service = (props) => {
   const { name, img, price, photo, place, duration, edit, deliver, description, extra } = props.service;
+  const nevigate = useNavigate();
+
+  const nevigateToCheckOut = () =>{
+        nevigate('/checkout');
+  }
   return (
     <div className="service">
       <img className="w-100" src={img} alt="" />
@@ -21,7 +27,7 @@ const Service = (props) => {
       <p>Extra Hour: {extra}</p>
       <hr className="zen" />
       <p>*{description}</p>
-      <button className="btn btn-primary">Book Now</button>
+      <button onClick={() => nevigateToCheckOut()} className="btn btn-primary">Check Out</button>
     </div>
   );
 };

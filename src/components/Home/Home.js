@@ -4,6 +4,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import useServices from '../../hooks/useServices';
 import Banner from '../Banner/Banner';
+import Footer from '../Footer/Footer';
 import Reviews from '../Reviews/Reviews';
 import Service from '../Service/Service';
 import './Home.css';
@@ -31,6 +32,7 @@ const Home = () => {
                <img src="https://www.globitalsingapore.com/wp-content/uploads/2021/07/df453we.png" alt="" />
             </div>
             <Reviews></Reviews>
+            <Footer></Footer>
         </>
     );
 };
